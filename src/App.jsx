@@ -142,11 +142,11 @@ export default function App() {
           <div className="flex items-start gap-3">
             <FaLink className="text-lg text-gray-400 flex-shrink-0 mt-0.5" />
             <a
-              href="https://aradhya-two.vercel.app"
+              href="https://dva-portfolio-nine.vercel.app/"
               target="_blank"
               className="text-blue-400 hover:text-blue-300 break-all"
             >
-              aradhya-two.vercel.app
+              dva-portfolio-nine.vercel.app
             </a>
           </div>
         </div>
