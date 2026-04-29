@@ -78,7 +78,7 @@ export default function App() {
           className="w-40 h-40 rounded-full mb-4"
         />
 
-        <h2 className="text-xl font-bold">Anuj Upadhyay</h2>
+        <h2 className="text-xl font-bold">Aradhya Tiwari</h2>
         <p className="text-gray-400">@Anuj192006</p>
 
         <p className="text-gray-400 text-sm text-center mt-3 leading-relaxed">
@@ -94,7 +94,7 @@ export default function App() {
         {/* SOCIAL */}
         <div className="flex gap-3 w-full mt-3">
           <a
-            href="https://www.linkedin.com/in/anuj-upadhyay-a8455b30b/"
+            href="https://www.linkedin.com/in/aradhya-tiwari-751990252/"
             target="_blank"
             className="flex-1 bg-[#161b22] border border-gray-700 py-2 rounded text-center"
           >
@@ -102,7 +102,7 @@ export default function App() {
           </a>
 
           <a
-            href="https://github.com/Anuj192006"
+            href="https://github.com/AradhyaTiwari10"
             target="_blank"
             className="flex-1 bg-[#161b22] border border-gray-700 py-2 rounded text-center"
           >

@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Anuj Upadhyay
+# 👋 Hi, I'm Aradhya Tiwari
 
 AI/ML Engineer and aspiring data scientist passionate about transforming complex data into actionable insights. Experienced in machine learning, data analysis, and full-stack development.
 
