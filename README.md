@@ -6,21 +6,21 @@ AI/ML Engineer and aspiring data scientist passionate about transforming complex
 
 ## 🌐 Portfolio
 
-🔗 [View My Portfolio](https://aradhya-two.vercel.app/)
+🔗 [View My Portfolio](https://dva-portfolio-nine.vercel.app/)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎮 Video Game Sales Analysis
+### 🚚 Olist Delay Lens
 
-Conducted exploratory data analysis on a large-scale video game sales dataset (~16K records) to uncover global trends across regions, platforms, and genres. Analyzed sales distribution, regional performance, and genre popularity using Python-based tools. Developed visualizations to highlight key patterns and correlations for market insights.
+Olist Delay Lens analyzes e‑commerce order delays using Python, pandas, and machine learning to identify root causes. It builds reproducible data pipelines, exploratory notebooks, and interactive visualizations to inform operational decisions and reduce delivery latency across marketplaces with measurable impact.
 
 ---
 
-### 🚗 Car Resale Analytics
+### 💓 Cardiovascular Risk Assessment
 
-Analyzed used car resale prices across multiple Indian cities with 179,490 records. Built regression and ML models to predict resale value using car specifications and usage details. Investigated how car age, kilometers driven, fuel type, and transmission impact resale prices. Identified key depreciation patterns and market concentration insights.
+This project analyzes cardiovascular risk using patient health data to evaluate whether smoking and diabetes impact disease occurrence, heart rate, and cholesterol. It highlights single-factor correlations and emphasizes multivariate modeling, enabling data-driven healthcare decisions through interactive dashboards and analytical frameworks.
 
 ---
 
@@ -50,4 +50,4 @@ Analyzed used car resale prices across multiple Indian cities with 179,490 recor
 - LinkedIn: https://www.linkedin.com/in/aradhya-tiwari-751990252/
 - GitHub: https://github.com/AradhyaTiwari10
 - Email: aradhya.tiwari2024@nst.rishihood.edu.in
-- Portfolio: https://aradhya-two.vercel.app/
+- Portfolio: https://dva-portfolio-nine.vercel.app/
