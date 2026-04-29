@@ -6,7 +6,7 @@ AI/ML Engineer and aspiring data scientist passionate about transforming complex
 
 ## 🌐 Portfolio
 
-🔗 [View My Portfolio](https://anuj-two.vercel.app/)
+🔗 [View My Portfolio](https://aradhya-two.vercel.app/)
 
 ---
 
@@ -47,7 +47,7 @@ Analyzed used car resale prices across multiple Indian cities with 179,490 recor
 
 ## 📬 Contact
 
-- LinkedIn: https://www.linkedin.com/in/anuj-upadhyay-a8455b30b/
-- GitHub: https://github.com/Anuj192006
-- Email: anuj.upadhyay2024@nst.rishihood.edu.in
-- Portfolio: https://anuj-two.vercel.app/
+- LinkedIn: https://www.linkedin.com/in/aradhya-tiwari-751990252/
+- GitHub: https://github.com/AradhyaTiwari10
+- Email: aradhya.tiwari2024@nst.rishihood.edu.in
+- Portfolio: https://aradhya-two.vercel.app/

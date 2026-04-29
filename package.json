@@ -1,9 +1,9 @@
 {
-  "name": "anuj-portfolio",
+  "name": "aradhya-portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://anuj-two.vercel.app",
+  "homepage": "https://aradhya-two.vercel.app",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

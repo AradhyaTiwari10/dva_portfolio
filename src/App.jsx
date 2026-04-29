@@ -49,18 +49,18 @@ export default function App() {
 
   const projects = [
     {
-      title: "Video Game Sales Analysis",
-      desc: "Conducted exploratory data analysis on a large-scale video game sales dataset (~16K records) to uncover global trends across regions, platforms, and genres. Analyzed sales distribution, regional performance, and genre popularity using Python-based tools. Developed visualizations to highlight key patterns and correlations, enabling data-driven insights into market dynamics and consumer preferences.",
+      title: "Olist Delay Lens",
+      desc: "Olist Delay Lens analyzes e‑commerce order delays using Python, pandas, and machine learning to identify root causes. It builds reproducible data pipelines, exploratory notebooks, and interactive visualizations to inform operational decisions and reduce delivery latency across marketplaces with measurable impact.",
       tags: ["Python", "EDA", "Visualization"],
-      img: `${baseURL}image2.png`,
-      link: "https://github.com/paramkhodiyar/SecE_G15_VideoGameSales",
+      img: `https://i.postimg.cc/pTpRyptK/image.png`,
+      link: "https://github.com/Harsith-Panda/E_G2_OlistDelayLens",
     },
     {
-      title: "Car Resale Analytics",
-      desc: "Analyzed used car resale prices across Indian cities with 179,490 records. Built regression and ML models to predict resale value using car specifications and usage details. Investigated impact of car age, kilometers driven, fuel type, and transmission on resale prices. Identified key depreciation patterns and market concentration insights to optimize pricing strategies.",
+      title: "Cardiovascular Risk Assessment",
+      desc: "This project analyzes cardiovascular risk using patient health data to evaluate whether smoking and diabetes impact disease occurrence, heart rate, and cholesterol. It highlights single-factor correlations and emphasizes multivariate modeling, enabling data-driven healthcare decisions through interactive dashboards and analytical frameworks.",
       tags: ["Python", "ML", "Data Analysis"],
-      img: `${baseURL}image.png`,
-      link: "https://github.com/vani-max/Car_Resale_Analytics",
+      img: `https://i.postimg.cc/FHvqPd8W/image.png`,
+      link: "https://github.com/RahulDwivedi205/G11_DVA_Capstone",
     },
   ];
 
@@ -79,7 +79,7 @@ export default function App() {
         />
 
         <h2 className="text-xl font-bold">Aradhya Tiwari</h2>
-        <p className="text-gray-400">@Anuj192006</p>
+        <p className="text-gray-400">@AradhyaTiwari10</p>
 
         <p className="text-gray-400 text-sm text-center mt-3 leading-relaxed">
           AI/ML Engineer and aspiring data scientist. Passionate about
@@ -116,16 +116,16 @@ export default function App() {
         <div className="w-full text-gray-300 text-sm space-y-4">
           <div className="flex items-center gap-3">
             <FaMapMarkerAlt className="text-lg text-gray-400 flex-shrink-0" />
-            <span>Mumbai, Maharashtra</span>
+            <span>Jaipur, Rajasthan</span>
           </div>
 
           <div className="flex items-center gap-3">
             <FaEnvelope className="text-lg text-gray-400 flex-shrink-0" />
             <a
-              href="mailto:anuj.upadhyay2024@nst.rishihood.edu.in"
+              href="mailto:aradhya.upadhyay2024@nst.rishihood.edu.in"
               className="text-blue-400 hover:text-blue-300 break-all"
             >
-              anuj.upadhyay2024@nst.rishihood.edu.in
+              aradhya.tiwari2024@nst.rishihood.edu.in
             </a>
           </div>
 
@@ -135,18 +135,18 @@ export default function App() {
               href="tel:+918604068920"
               className="text-blue-400 hover:text-blue-300"
             >
-              +91 8604068920
+              +91 9588929748
             </a>
           </div>
 
           <div className="flex items-start gap-3">
             <FaLink className="text-lg text-gray-400 flex-shrink-0 mt-0.5" />
             <a
-              href="https://anuj-two.vercel.app"
+              href="https://aradhya-two.vercel.app"
               target="_blank"
               className="text-blue-400 hover:text-blue-300 break-all"
             >
-              anuj-two.vercel.app
+              aradhya-two.vercel.app
             </a>
           </div>
         </div>
